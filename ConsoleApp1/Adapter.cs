@@ -10,6 +10,7 @@ namespace DesignPatterns
 
     // Клас, який потрібно адаптувати
     public class Adaptee
+
     {
         public string GetSpecificRequest()
         {
